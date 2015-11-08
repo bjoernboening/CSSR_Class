@@ -18,7 +18,6 @@ Please feel free to share the link to your repository from assignment 1 in the t
 | | | |
 | | | |
 | | | |
-| | | |
 
 ## Assignment 2
 
@@ -49,6 +48,7 @@ Please feel free to share the link to your repository for assignment 3 in the ta
 | Name of/Link to Contributor 1 | Name of/Link to Contributor 2 | Link to Repository |
 |----|----|----|
 | https://github.com/ChristopherCosler | https://github.com/LisaKatharina | https://github.com/ChristopherCosler/CSSG_Dataanalysis |
+| https://github.com/bjoernboening | https://github.com/codykoebnick & https://github.com/laurencehendry| https://github.com/bjoernboening/MaritimePiracy |
 | | | |
 | | | |
 | | | |
